@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @b-rajshekar
-- 👀 I’m interested in Webdevelopment
+- 👀 I’m an aspiring WebDeveloper
 - 🌱 I’m currently learning HTML,CSS,JavaScript.......
