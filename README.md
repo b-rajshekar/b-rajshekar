@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @b-rajshekar
+- 👋 Hi, I’m Rajashekhar
 - 👀 I’m an aspiring WebDeveloper
-- 🌱 I’m currently learning HTML,CSS,JavaScript.......
+- 🌱 I’m currently learning HTML,CSS,JavaScript, with the help of a course in Udemy named (The Complete 2022 Web Development Bootcamp by Angela Yu)
+- Completed FreeCodeCamp Responsive WebDesign Certification.
