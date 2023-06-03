@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rajashekhar.
-- 👀 I’m an aspiring WebDeveloper.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and some basic Python with the help of courses from Udemy, freeCodeCamp, codeacedamy and YouTube.
-- Completed FreeCodeCamp Responsive WebDesign Certification, (Started on 3rd March 2022 and Finished on 5th of June 2022).
+- 👀 I’m an aspiring Software Engineer.
+- 🌱 I’m currently pursuing online MCA from Manipal University Jaipur.
+- Started my Journey to learn C Programming language from 01-06-2023.
