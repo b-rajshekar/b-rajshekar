@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rajashekhar.
 - 👀 I’m an aspiring Software Engineer.
 - 🌱 I’m currently pursuing online MCA from Manipal University Jaipur.
-- Started my Journey to learn C Programming language from 01-06-2023.
+- 👨🏼‍💻 Started my Journey to learn C Programming language from 01-06-2023.
