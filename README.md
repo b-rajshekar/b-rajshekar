@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Rajashekhar.
-- 👀 I’m an aspiring Front End Developer
 - 🌱 I’m currently pursuing online MCA from Manipal University Jaipur.
-- 👨🏼‍💻 Learning Web Development
+- 👨🏼‍💻 Cybersecurity Enthusiast
