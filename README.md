@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Rajashekhar.
-- 🌱 I’m currently pursuing online MCA from Manipal University Jaipur.
 - 👨🏼‍💻 Cybersecurity Enthusiast
