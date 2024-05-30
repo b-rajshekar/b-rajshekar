@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Rajashekhar.
 - 👨🏼‍💻 Cybersecurity Enthusiast
-- Aspiring Web Developer
-- Future Software Engineer
-- started #100DaysOfCoding | 23-04-2024
+- Aspiring Data Analyst
