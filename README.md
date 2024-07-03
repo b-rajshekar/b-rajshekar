@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rajashekhar.
-- 👨🏼‍💻 Cybersecurity Enthusiast
-- Aspiring Data Analyst
+- 👨 Cybersecurity Enthusiast
+- 👨🏼‍💻 Aspiring Software Engineer
