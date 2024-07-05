@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Rajashekhar.
 - 👨 Cybersecurity Enthusiast
 - 👨🏼‍💻 Aspiring Software Engineer
+- Currently learning Python `` (Snake emoji)
