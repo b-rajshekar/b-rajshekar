@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-rajshekar&label=Profile%20views&color=0e75b6&style=flat" alt="b-rajshekar" /> </p>
 
-- 🌱 I’m currently learning **Python from Udemy 100 Days of Code**
+- 🌱 I’m currently learning **Front-End and Cloud**
 
 - 📫 How to reach me **brajashekhar19@gmail.com**
 
