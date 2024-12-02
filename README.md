@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajshekar</h1>
-<h3 align="center">An aspiring Software Engineer from India</h3>
+<h3 align="center">An aspiring Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/vsPomXV3SkoAAAAC/coffee-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-rajshekar&label=Profile%20views&color=0e75b6&style=flat" alt="b-rajshekar" /> </p>
 
-- 🌱 I’m currently learning **Front-End and Cloud**
+- 🌱 I’m currently learning **Front-End**
 
 - 📫 How to reach me **brajashekhar19@gmail.com**
 
